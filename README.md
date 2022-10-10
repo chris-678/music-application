@@ -1,6 +1,6 @@
 # Project SongsVill
 
-Develop an elegant React.js Music Application. 
+An elegant React.js Music Application. 
 
 Check out the complete project [here](https://https://songsvill-app.netlify.app)
 
