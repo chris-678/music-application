@@ -2,7 +2,7 @@
 
 Develop an elegant React.js Music Application. 
 
-Check out the complete project requirements [here](https://https://songsvill-app.netlify.app)
+Check out the complete project [here](https://https://songsvill-app.netlify.app)
 
 
 ## System Requirements
